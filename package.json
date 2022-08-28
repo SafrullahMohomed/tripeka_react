@@ -1,0 +1,94 @@
+{
+  "name": "trip",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fullcalendar/daygrid": "^5.11.2",
+    "@fullcalendar/interaction": "^5.11.2",
+    "@fullcalendar/react": "^5.11.2",
+    "@headlessui/react": "^1.6.6",
+    "@heroicons/react": "^1.0.6",
+    "@iconscout/react-unicons": "^1.1.6",
+    "@iconscout/unicons": "^4.0.1",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@trendyol-js/react-carousel": "^3.0.0",
+    "aos": "^2.3.4",
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.2",
+    "emailjs-com": "^3.2.0",
+    "font-awesome": "^4.7.0",
+    "framer-motion": "^7.2.0",
+    "jwt-decode": "^3.1.2",
+    "luxon": "^3.0.1",
+    "md5": "^2.3.0",
+    "net": "^1.0.2",
+    "npm": "^8.13.2",
+    "react": "^18.2.0",
+    "react-accessible-accordion": "^5.0.0",
+    "react-big-calendar": "^1.5.0",
+    "react-calendar": "^3.7.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.2",
+    "react-hook-form": "^7.33.1",
+    "react-icons": "^4.4.0",
+    "react-images-uploading": "^3.1.7",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.7",
+    "react-select-async-paginate": "^0.6.2",
+    "react-simple-star-rating": "^4.0.5",
+    "react-slick": "^0.29.0",
+    "react-slideshow-image": "^4.0.4",
+    "react-toastify": "^9.0.8",
+    "sass": "^1.54.0",
+    "slick-carousel": "^1.8.1",
+    "sockjs-client": "^1.5.2",
+    "stompjs": "^2.3.3",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwind-scrollbar": "^1.3.1",
+    "tailwindcss": "^3.1.2"
+  }
+}
